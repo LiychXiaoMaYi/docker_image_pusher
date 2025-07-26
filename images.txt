@@ -21,8 +21,9 @@
 #--alias=shardingsphere-proxy apache/shardingsphere-proxy:5.5.1
 # nacos
 #--alias=nacos-server nacos/nacos-server:v2.4.3
---alias=nacos-server nacos/nacos-server:v3.0.0
+#--alias=nacos-server nacos/nacos-server:v3.0.0
 #apache/rocketmq:5.3.2
 #redis:7.4.2
 #redis:6.2.14
+openresty:1.27.1.2-2-1-focal
 
