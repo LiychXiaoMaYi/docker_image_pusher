@@ -25,5 +25,5 @@
 #apache/rocketmq:5.3.2
 #redis:7.4.2
 #redis:6.2.14
-openresty:1.27.1.2-0-1-focal
+openresty/openresty:1.27.1.2-2-alpine-fat
 
